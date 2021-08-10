@@ -1,0 +1,21 @@
+FEED MONEY Thu Jun 03 15:02:59 EDT 2021 Amount fed: 5 New balance: 5.0
+ Thu Jun 03 15:03:04 EDT 2021 U-Chews D1 $ 0.85 $ 4.15
+GIVE CHANGE Thu Jun 03 15:03:05 EDT 2021  change is:16 quarters1 dimes1 nickels0 pennies Remaining balance: $ 0.00
+FEED MONEY Thu Jun 03 15:34:10 EDT 2021 Amount fed: 5 New balance: 5.0
+ Thu Jun 03 15:34:15 EDT 2021 U-Chews slot ID: D1 price: $ 0.85 remaining balance: $ 4.15
+ Thu Jun 03 15:34:18 EDT 2021 Mountain Melter slot ID: C3 price: $ 1.50 remaining balance: $ 2.65
+GIVE CHANGE Thu Jun 03 15:34:21 EDT 2021  change is: 10 quarters 1 dimes 1 nickels 0 pennies  Remaining balance: $ 0.00
+FEED MONEY Thu Jun 03 15:35:13 EDT 2021 Amount fed: 5 New balance: 5.0
+ Thu Jun 03 15:35:17 EDT 2021 U-Chews slot ID: D1 price: $ 0.85 remaining balance: $ 4.15
+ Thu Jun 03 15:35:19 EDT 2021 Mountain Melter slot ID: C3 price: $ 1.50 remaining balance: $ 2.65
+ Thu Jun 03 15:35:22 EDT 2021 U-Chews slot ID: D1 price: $ 0.85 remaining balance: $ 1.80
+GIVE CHANGE Thu Jun 03 15:35:24 EDT 2021  change is: 7 quarters 0 dimes 1 nickels 0 pennies  Remaining balance: $ 0.00
+FEED MONEY Thu Jun 03 15:36:28 EDT 2021 Amount fed: 5 New balance: 5.0
+ Thu Jun 03 15:36:30 EDT 2021 U-Chews slot ID: D1 price: $ 0.85 remaining balance: $ 4.15
+ Thu Jun 03 15:36:31 EDT 2021 U-Chews slot ID: D1 price: $ 0.85 remaining balance: $ 3.30
+ Thu Jun 03 15:36:33 EDT 2021 Mountain Melter slot ID: C3 price: $ 1.50 remaining balance: $ 1.80
+ Thu Jun 03 15:36:35 EDT 2021 U-Chews slot ID: D1 price: $ 0.85 remaining balance: $ 0.95
+GIVE CHANGE Thu Jun 03 15:36:36 EDT 2021  change is: 3 quarters 2 dimes 0 nickels 0 pennies  Remaining balance: $ 0.00
+FEED MONEY Mon Aug 09 22:49:02 EDT 2021 Amount fed: 5 New balance: 5.0
+ Mon Aug 09 22:49:09 EDT 2021 Triplemint slot ID: D4 price: $ 0.75 remaining balance: $ 4.25
+GIVE CHANGE Mon Aug 09 22:49:12 EDT 2021  change is: 17 quarters 0 dimes 0 nickels 0 pennies  Remaining balance: $ 0.00
